@@ -1,0 +1,29 @@
+{
+  "name": "my_pack",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoGy224/JSRep.git"
+  },
+  "keywords": [
+    "emixt211996"
+  ],
+  "author": "vlad_hnatiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoGy224/JSRep/issues"
+  },
+  "homepage": "https://github.com/BoGy224/JSRep#readme",
+  "dependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
